@@ -1,0 +1,5 @@
+#!/usr/bin/expect -f
+tetris_finally
+expect "Please enter your name(NOT A LETTER!):"
+send "gao"
+#expect eof
