@@ -1,12 +1,6 @@
-/***************************************************************************
- *
- * Copyright (c) 2011 Baidu.com, Inc. All Rights Reserved
- *
- **************************************************************************/
-
 
 /*
- * Author: liwei12 <liwei12@baidu.com>
+ * Author: allen2660
  * 
  *
  * File: test_KBListener.cpp

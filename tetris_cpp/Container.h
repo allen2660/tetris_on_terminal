@@ -1,5 +1,5 @@
 /*
- * Author: liwei12 <liwei12@baidu.com>
+ * Author: allen2660
  * 
  *
  * File: Container.h
